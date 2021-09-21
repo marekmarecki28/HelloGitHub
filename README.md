@@ -1,4 +1,2 @@
 # HelloGitHub
-Repozytorium testowe do nauki programowania Arduino.
-
-To jest plik Readme
+Repozytorium testowe do nauki gita oraz rozwijania umiejętności.
